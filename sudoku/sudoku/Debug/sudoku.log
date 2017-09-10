@@ -1,0 +1,4 @@
+﻿  sudoku.cpp
+e:\学习\大三\软工实践\sudoku\sudoku\sudoku.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  sudoku.vcxproj -> E:\学习\大三\软工实践\sudoku\Debug\sudoku.exe
+  sudoku.vcxproj -> E:\学习\大三\软工实践\sudoku\Debug\sudoku.pdb (Partial PDB)
